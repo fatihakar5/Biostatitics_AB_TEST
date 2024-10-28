@@ -30,3 +30,5 @@ The project includes the following steps:
   
 5. Results
     - Through this analysis, we derived that the DIAGNOSIS variable's 0 and 1 values likely represent two distinct health-related groups within the dataset. The results suggest that the 0 group may correspond to individuals with health issues, while the 1 group may represent healthier individuals. Although the specific conditions of each group are still unidentified, this foundational analysis provides a basis for further exploration of characteristics within each group.
+  
+6. Project Kaggle link : [https://www.kaggle.com/code/fatihakar5/biostatistics-ab-test]
